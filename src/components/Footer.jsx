@@ -20,7 +20,7 @@ const Footer = () => {
             textAlign={["center", "left"]}
           >
             We are the best crypto trading app in India, we provide our guidance
-            at a very cheap price.
+            at a very cheap prices.
           </Text>
         </VStack>
 
